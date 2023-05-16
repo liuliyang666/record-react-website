@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/record-react-website/static/css/main.573c9078.chunk.css",
+    "main.js": "/record-react-website/static/js/main.9b1baffa.chunk.js",
+    "main.js.map": "/record-react-website/static/js/main.9b1baffa.chunk.js.map",
+    "runtime-main.js": "/record-react-website/static/js/runtime-main.ac4719cc.js",
+    "runtime-main.js.map": "/record-react-website/static/js/runtime-main.ac4719cc.js.map",
+    "static/js/2.37b024eb.chunk.js": "/record-react-website/static/js/2.37b024eb.chunk.js",
+    "static/js/2.37b024eb.chunk.js.map": "/record-react-website/static/js/2.37b024eb.chunk.js.map",
+    "index.html": "/record-react-website/index.html",
+    "precache-manifest.1a37686b427f276ec03c109c6e78ba3b.js": "/record-react-website/precache-manifest.1a37686b427f276ec03c109c6e78ba3b.js",
+    "service-worker.js": "/record-react-website/service-worker.js",
+    "static/css/main.573c9078.chunk.css.map": "/record-react-website/static/css/main.573c9078.chunk.css.map",
+    "static/js/2.37b024eb.chunk.js.LICENSE.txt": "/record-react-website/static/js/2.37b024eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac4719cc.js",
+    "static/js/2.37b024eb.chunk.js",
+    "static/css/main.573c9078.chunk.css",
+    "static/js/main.9b1baffa.chunk.js"
+  ]
+}
